@@ -77,11 +77,12 @@ Go to **Participant Registration** section and register to be the workshop parti
 ```
 git add .
 git commit -m "Register for OpenHack workshop"
-
+```
 
 - Step 6: Create a `Pull Request` to merge your changes to this repository and name your PR as `Your name | Register for OpenHack workshop`
 
 <img width="1166" alt="Screenshot 2024-04-19 at 16 23 45" src="https://github.com/openguild-labs/open-hack-rust-starter/assets/56880684/7554ca7d-da68-4a23-893a-4f2c11a78d37">
+
 
 ---
 
